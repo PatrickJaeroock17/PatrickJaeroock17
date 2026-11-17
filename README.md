@@ -1,54 +1,28 @@
-# Hola, soy Patrick 👋
+# Hola, soy Patrick Tello 👋
 
-Estudiante de **Ingeniería Industrial** en la **Universidad Nacional de Ingeniería (UNI)**, Lima, Perú.
-Me interesa la **innovación, la transformación digital y la IA aplicada**, y me gusta convertir problemas reales (costos, ventas, procesos) en herramientas que se puedan usar.
+Estudiante de **Ingeniería Industrial en la UNI** (Quinto Superior), con interés en **analítica de datos, automatización, inteligencia artificial y transformación digital**. Busco mi primera práctica pre-profesional donde pueda construir soluciones con datos y tecnología.
 
-Busco mi primera experiencia pre-profesional en **datos, analítica y medios digitales**.
+## 🚀 Proyectos destacados
 
----
+| Proyecto | Qué es | Tecnologías |
+|---|---|---|
+| [**COSTEA-APP-WEB**](https://github.com/PatrickJaeroock17/COSTEA-APP-WEB) | Aplicación web para que restaurantes calculen costos de platos, planilla, gastos, presupuestos, ventas e inventario con IGV | Next.js · React · TypeScript · Supabase (Postgres, Auth y RLS) · Tailwind |
+| [**SISTEMA-CONTROL-APPS-SCRIPT**](https://github.com/PatrickJaeroock17/SISTEMA-CONTROL-APPS-SCRIPT) | Sistema web de control de ventas y entregas de tickets de la Pollada CCATina 2026, con roles, auditoría y pruebas automatizadas | Google Sheets · Apps Script · JavaScript |
+| [**IATHON_KIRO_RASTRO-DE-AYUDA**](https://github.com/PatrickJaeroock17/IATHON_KIRO_RASTRO-DE-AYUDA) | Prototipo de trazabilidad de ayuda humanitaria (El Niño, Piura), diseñado *spec-first* con Kiro y AWS | Python · AWS Lambda · DynamoDB · Bedrock · SAM |
+| [**Datafest-Coding-Test**](https://github.com/PatrickJaeroock17/Datafest-Coding-Test) | Modelo de probabilidad de primera conversión de clientes (DATAFEST 2026 BCP), con validación retrospectiva mensual y métricas Gini/AUC | Python · pandas · scikit-learn · CatBoost |
 
-## Proyectos
+## 🛠️ Herramientas
 
-### Costea — costos y presupuestos para restaurantes
-Aplicación web para costear recetas, controlar gastos y armar presupuestos. Nació en un curso de Contabilidad de Costos y hoy la estoy rediseñando por completo como producto.
-- **Stack:** Next.js, React, Supabase (migrando desde Flask)
-- **Estado:** en desarrollo; versión pública próximamente
+**Datos y automatización:** Python · SQL · Excel (Visual Basic) · Power BI · Power Query · Power Automate
+**Desarrollo y nube:** JavaScript · TypeScript · Next.js · React · Supabase · AWS · Git
+**IA:** IA generativa aplicada al desarrollo (Claude, Claude Code) · Machine Learning
 
-### Sistema de control de ventas y entregas — Pollada CCAT 2026
-Sistema para registrar ventas, entregas y seguimiento en un evento real del CCAT, hecho con **Google Sheets + Apps Script**.
-- **Enfoque:** captura simple de datos, control en tiempo real y reportes para el equipo organizador
+## 🤝 Liderazgo y comunidad
 
-### Simulación y análisis de datos en cursos de Ingeniería Industrial
-Trabajos en Excel de validación de modelos y pruebas estadísticas (Kolmogorov-Smirnov), control estadístico de procesos, costeo ABC y MRP.
-- **Herramientas:** Excel, análisis estadístico, modelado
+- Subdirector de Logística y Finanzas en el **CCAT** (UNI-FIIS)
+- Moderador en **CLEIN 2026**
+- Participante en hackathons: **AWS Kiro IAthon** y **DATAFEST BCP**
 
-### Sistema de reconocimiento facial
-Proyecto en equipo de cuatro personas.
+## 📫 Contacto
 
----
-
-## Liderazgo y comunidad
-
-- **Moderador** en CLEIN Virtual 2026 (Congreso de Estudiantes de Ingeniería Industrial)
-- **Co-organizador** del Supply Summit
-- Participante en hackatones (AWS Kiro IAthon, DATAFEST BCP)
-
----
-
-## Herramientas
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
-![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat&logo=google&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-
-## Contacto
-
-+51 944003160
-
-- LinkedIn: https://www.linkedin.com/in/patrick-jaeroock-geovanni-tello-mendoza-0976113b3/
-- Correo: jaeroock1701@gmail.com
+[LinkedIn](https://www.linkedin.com/in/patrick-jaeroock-geovanni-tello-mendoza-0976113b3/) · jaeroock1701@gmail.com
